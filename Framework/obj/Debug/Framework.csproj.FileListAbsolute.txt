@@ -1,0 +1,7 @@
+D:\c#\TestProject\Framework\bin\Debug\Framework.exe.config
+D:\c#\TestProject\Framework\bin\Debug\Framework.exe
+D:\c#\TestProject\Framework\bin\Debug\Framework.pdb
+D:\c#\TestProject\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+D:\c#\TestProject\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+D:\c#\TestProject\Framework\obj\Debug\Framework.exe
+D:\c#\TestProject\Framework\obj\Debug\Framework.pdb
